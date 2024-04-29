@@ -1,6 +1,4 @@
-Feature: Read the paper
+Feature: Test site
 
-    Scenario: See the image on the first page
-        Given that I am on the first page
-        When I click on the logo
-        Then I can see the picture
+    Scenario: test homepage
+        Given that i am on the homepage
